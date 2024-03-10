@@ -1,6 +1,6 @@
 # BST-Visualizer
 ## The source code files have been placed in the BST folder. 
-## The description and presentation of the application's function can be found in the file .
+## The description and presentation of the application's function can be found in the file [Opis projektu](https://github.com/soberyoda/BST-Visualizer/blob/main/OPIS%20I%20DOKUMENTACJA%20PROJEKTU%20BST%20VISUALIZER%20pdf.pdf).
 ### Programming languages, technologies, libraries used:
 
 ### Python 3.11.3:
